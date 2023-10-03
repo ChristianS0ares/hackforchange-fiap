@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PSvKWTLaS9GLWkc0du7yc4Pd65g+gP1gHm2Lrrg5YFPQnmnkAhGmOb6z5UhrqCHXh/fSv2Assk4kxmUB6201OQ==",
+  "dgSpecHash": "F9uutMXDwdxQXPreIGpkWUW7eUA7CJ9eWuoRwb5nb9aeTVb2lepHqDKCx3ta76f2ZwFs34lbt1fMwRDB16crGQ==",
   "success": true,
   "projectFilePath": "F:\\Documentos\\GitHub\\hackforchange-fiap\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
@@ -93,10 +93,7 @@
     "C:\\Users\\chris\\.nuget\\packages\\xunit.core\\2.4.0\\xunit.core.2.4.0.nupkg.sha512",
     "C:\\Users\\chris\\.nuget\\packages\\xunit.extensibility.core\\2.4.0\\xunit.extensibility.core.2.4.0.nupkg.sha512",
     "C:\\Users\\chris\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\xunit.skippablefact\\1.3.12\\xunit.skippablefact.1.3.12.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+    "C:\\Users\\chris\\.nuget\\packages\\xunit.skippablefact\\1.3.12\\xunit.skippablefact.1.3.12.nupkg.sha512"
   ],
   "logs": []
 }

@@ -12,4 +12,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Entities\Enums\" />
+    <Folder Include="ValueObjects\" />
+  </ItemGroup>
+
 </Project>
