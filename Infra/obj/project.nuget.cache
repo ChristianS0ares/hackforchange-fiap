@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i/I9p1IZCUIFbE4PZ5IGaLSxmQ0FSEqJ/457nqUmQek38pBJtCjyZCkOlEkoHmtj9iuu7i8fR0OHUifwxnwJJw==",
+  "dgSpecHash": "qZGvq4kj3Pk7+j+op02OAYMJee9568+BBD7qy+HUSoEW0D0ZoEhQqUhDv03ZN6RoK7mDcAwGUS/+aBSPGb8J9Q==",
   "success": true,
-  "projectFilePath": "F:\\Projetos\\C#\\Aplicativo Console\\hackforchange-fiap\\Infra\\Infra.csproj",
+  "projectFilePath": "F:\\Documentos\\GitHub\\hackforchange-fiap\\Infra\\Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chris\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\chris\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",

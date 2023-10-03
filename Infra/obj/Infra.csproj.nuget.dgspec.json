@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projetos\\C#\\Aplicativo Console\\hackforchange-fiap\\Infra\\Infra.csproj": {}
+    "F:\\Documentos\\GitHub\\hackforchange-fiap\\Infra\\Infra.csproj": {}
   },
   "projects": {
-    "F:\\Projetos\\C#\\Aplicativo Console\\hackforchange-fiap\\Domain\\Domain.csproj": {
+    "F:\\Documentos\\GitHub\\hackforchange-fiap\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos\\C#\\Aplicativo Console\\hackforchange-fiap\\Domain\\Domain.csproj",
+        "projectUniqueName": "F:\\Documentos\\GitHub\\hackforchange-fiap\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "F:\\Projetos\\C#\\Aplicativo Console\\hackforchange-fiap\\Domain\\Domain.csproj",
+        "projectPath": "F:\\Documentos\\GitHub\\hackforchange-fiap\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos\\C#\\Aplicativo Console\\hackforchange-fiap\\Domain\\obj\\",
+        "outputPath": "F:\\Documentos\\GitHub\\hackforchange-fiap\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,14 +87,14 @@
         }
       }
     },
-    "F:\\Projetos\\C#\\Aplicativo Console\\hackforchange-fiap\\Infra\\Infra.csproj": {
+    "F:\\Documentos\\GitHub\\hackforchange-fiap\\Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos\\C#\\Aplicativo Console\\hackforchange-fiap\\Infra\\Infra.csproj",
+        "projectUniqueName": "F:\\Documentos\\GitHub\\hackforchange-fiap\\Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "F:\\Projetos\\C#\\Aplicativo Console\\hackforchange-fiap\\Infra\\Infra.csproj",
+        "projectPath": "F:\\Documentos\\GitHub\\hackforchange-fiap\\Infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos\\C#\\Aplicativo Console\\hackforchange-fiap\\Infra\\obj\\",
+        "outputPath": "F:\\Documentos\\GitHub\\hackforchange-fiap\\Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -111,8 +111,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Projetos\\C#\\Aplicativo Console\\hackforchange-fiap\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\Projetos\\C#\\Aplicativo Console\\hackforchange-fiap\\Domain\\Domain.csproj"
+              "F:\\Documentos\\GitHub\\hackforchange-fiap\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\Documentos\\GitHub\\hackforchange-fiap\\Domain\\Domain.csproj"
               }
             }
           }
