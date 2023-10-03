@@ -1,0 +1,16 @@
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\bin\Debug\net6.0\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\bin\Debug\net6.0\Infra.deps.json
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\bin\Debug\net6.0\Infra.dll
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\bin\Debug\net6.0\Infra.pdb
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\bin\Debug\net6.0\Domain.dll
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\bin\Debug\net6.0\Domain.pdb
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\obj\Debug\net6.0\Infra.csproj.CopyComplete
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\obj\Debug\net6.0\Infra.dll
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\obj\Debug\net6.0\refint\Infra.dll
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\obj\Debug\net6.0\Infra.pdb
+F:\Projetos\C#\SOAT\POSTECH_SOAT_SoftwareArchitecture_fiap_arquitetura-main\Infra\obj\Debug\net6.0\ref\Infra.dll
